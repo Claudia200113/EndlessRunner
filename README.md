@@ -1,5 +1,9 @@
 # Unity project for an endless runner 
 
+## Game Preview
+
+![Preview of Game](images/Thumbnail.png)
+
 [Link to gameplay video](https://drive.google.com/file/d/1z8hRTFN0IH200GtZeCdWZAL2wafPSCLA/view?usp=sharing)
 
 ## Overview
