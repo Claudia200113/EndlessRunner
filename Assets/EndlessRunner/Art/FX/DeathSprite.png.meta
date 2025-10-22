@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 23a97073679629746b038c2e404fa025
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ImpactSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f107ac41e2daa549814f1bd89a5961b
+      internalID: -2083287999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7973ec2f4956b6844a4d8fbc486efc0c
+      internalID: -434044753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a12a167df6a10c4da5a970e2099c5ed
+      internalID: -523303334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a78fbee6e51bd49a91825b5826d723
+      internalID: -1130657848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab56ce388ed304b802d228c14cc913
+      internalID: -1310391314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557ff0e68db2a0478f2d8bbd985d60a
+      internalID: -1354118824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca9dba0f0b9ca408b98b7a9345af3d
+      internalID: -1835212541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b1d2b31adac494caa82c7c44d05fdf
+      internalID: 189599626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cffd85bac51d994e8db47cb05a87120
+      internalID: 1798669607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bf37911198f2a4eb35d742dd59a6b5
+      internalID: 774250355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be820c0ea90804a418281ffa2bd972bd
+      internalID: -1648067838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8edfce8aac475347857d13c354e99a0
+      internalID: -1830133744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682d1e421a2c3847aad99c548e7c217
+      internalID: 1047063565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56139fcee82d474f98b4806bd2435c3
+      internalID: 114162412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a83b49696d37f49a80649fb09dc34e
+      internalID: 1875358420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66b0d27ded2a346aa6dc0c5411848c
+      internalID: -243884787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1cb829aef31ef459d1d6159ba34475
+      internalID: 1113166660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe15d0baa498bb4e882c68158a3f525
+      internalID: 1722389395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe7b1e1b9e9084e95bb3a65269d882
+      internalID: 1160550245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9067e950c086f34f972ba934803432a
+      internalID: -104394984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a9ad558583e424cbe5e8b31ae91e34
+      internalID: 635944980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8edf29b9b37945bb583d9b4bd221e
+      internalID: 897837850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e04c86dce0c140a3636948ed54e2d
+      internalID: -353453127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImpactSprite_95
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a723cee3b78b7740accbb6082b04e00
+      internalID: -333550242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ImpactSprite_0: -2083287999
+      ImpactSprite_1: -434044753
+      ImpactSprite_10: -1648067838
+      ImpactSprite_100: 1181363646
+      ImpactSprite_101: -1737836610
+      ImpactSprite_102: -488989430
+      ImpactSprite_103: -648004037
+      ImpactSprite_104: -1227794168
+      ImpactSprite_105: 583304528
+      ImpactSprite_106: -2103478211
+      ImpactSprite_107: -1912935991
+      ImpactSprite_108: 2069309682
+      ImpactSprite_11: -1830133744
+      ImpactSprite_12: -962699200
+      ImpactSprite_13: -318653359
+      ImpactSprite_14: 647348376
+      ImpactSprite_15: -528472755
+      ImpactSprite_16: -628661961
+      ImpactSprite_17: -873881478
+      ImpactSprite_18: 436797696
+      ImpactSprite_19: 1155815980
+      ImpactSprite_2: -523303334
+      ImpactSprite_20: -1555223083
+      ImpactSprite_21: 1399107704
+      ImpactSprite_22: -1241192275
+      ImpactSprite_23: 896092998
+      ImpactSprite_24: 737869485
+      ImpactSprite_25: -1623299272
+      ImpactSprite_26: 1363541361
+      ImpactSprite_27: -1037426433
+      ImpactSprite_28: 29786023
+      ImpactSprite_29: -2071442177
+      ImpactSprite_3: -1130657848
+      ImpactSprite_30: -567700103
+      ImpactSprite_31: -1654432640
+      ImpactSprite_32: 1792316157
+      ImpactSprite_33: 796759235
+      ImpactSprite_34: 1855275963
+      ImpactSprite_35: -1578426261
+      ImpactSprite_36: -1711703223
+      ImpactSprite_37: -2108264021
+      ImpactSprite_38: -463388618
+      ImpactSprite_39: -1632948196
+      ImpactSprite_4: -1310391314
+      ImpactSprite_40: -1877972230
+      ImpactSprite_41: -1832775742
+      ImpactSprite_42: 66091462
+      ImpactSprite_43: 363967188
+      ImpactSprite_44: -1606227858
+      ImpactSprite_45: -1901194707
+      ImpactSprite_46: -1641447348
+      ImpactSprite_47: 554647380
+      ImpactSprite_48: 25354372
+      ImpactSprite_49: 1109843600
+      ImpactSprite_5: -1354118824
+      ImpactSprite_50: 85159190
+      ImpactSprite_51: 785109198
+      ImpactSprite_52: 2011428741
+      ImpactSprite_53: -1845924356
+      ImpactSprite_54: 1543301383
+      ImpactSprite_55: -964250046
+      ImpactSprite_56: 1239192320
+      ImpactSprite_57: 150040273
+      ImpactSprite_58: 632283168
+      ImpactSprite_59: -1595285693
+      ImpactSprite_6: -1835212541
+      ImpactSprite_60: 661984203
+      ImpactSprite_61: -810504374
+      ImpactSprite_62: -331061733
+      ImpactSprite_63: 1701322573
+      ImpactSprite_64: -630466141
+      ImpactSprite_65: 1860507026
+      ImpactSprite_66: -1660298708
+      ImpactSprite_67: -240033395
+      ImpactSprite_68: -1938420567
+      ImpactSprite_69: -777163138
+      ImpactSprite_7: 189599626
+      ImpactSprite_70: -694195402
+      ImpactSprite_71: -1064864430
+      ImpactSprite_72: -1522863409
+      ImpactSprite_73: -456234519
+      ImpactSprite_74: 2058296519
+      ImpactSprite_75: 894961968
+      ImpactSprite_76: -646962594
+      ImpactSprite_77: 887415170
+      ImpactSprite_78: 1842940131
+      ImpactSprite_79: 2113616190
+      ImpactSprite_8: 1798669607
+      ImpactSprite_80: -1148583661
+      ImpactSprite_81: 643969741
+      ImpactSprite_82: 1951586023
+      ImpactSprite_83: -11932645
+      ImpactSprite_84: 1047063565
+      ImpactSprite_85: 114162412
+      ImpactSprite_86: 1875358420
+      ImpactSprite_87: -243884787
+      ImpactSprite_88: 1113166660
+      ImpactSprite_89: 1722389395
+      ImpactSprite_9: 774250355
+      ImpactSprite_90: 1160550245
+      ImpactSprite_91: -104394984
+      ImpactSprite_92: 635944980
+      ImpactSprite_93: 897837850
+      ImpactSprite_94: -353453127
+      ImpactSprite_95: -333550242
+      ImpactSprite_96: -959381415
+      ImpactSprite_97: -796762281
+      ImpactSprite_98: -1178094882
+      ImpactSprite_99: 1093223050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

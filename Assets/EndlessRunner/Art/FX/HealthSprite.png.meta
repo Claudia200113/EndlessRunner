@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: a8b4b44e4fa361743bf0b7a07f5b3e55
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HealthSprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bd5736a61fa15499d56147d9eabbee
+      internalID: -1787662425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc0c462181c2ee4dbdb96e0716ddb21
+      internalID: 2076361477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1cc3070800fc545945baa88acf0d48
+      internalID: 2057129541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c856fd20dbb7dd4eaf759b9e87278f6
+      internalID: -1043542579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4a45cdbafb8e4a842992dd3e270ee
+      internalID: -1465858170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aaa1eb2b1eef941a7bcefc180ac7fe
+      internalID: 5138811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c3f424ea55d2d4aaf83c9ee2d14780
+      internalID: -589873230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89c1531268d96c4395438dcf47a3eaf
+      internalID: -1086509020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c2eee5c9236d46970b9131a0aa942
+      internalID: 1029458179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f21d2fd623a644ea616c67b71c0e9e
+      internalID: -156766948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5424e161a8715a04b90322712c2fa124
+      internalID: 302870214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617a25756bb7c94e85b294dca6c0704
+      internalID: -1460463901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932419bd4a15ad54692a479551820787
+      internalID: 2096794506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthSprite_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32f228a3c8fe1f49ae66c4d63904c17
+      internalID: -385530551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HealthSprite_0: 664160812
+      HealthSprite_1: 788908954
+      HealthSprite_10: -1875923353
+      HealthSprite_100: 1283590980
+      HealthSprite_101: 433382406
+      HealthSprite_102: 317849084
+      HealthSprite_103: -628321654
+      HealthSprite_104: -1874187427
+      HealthSprite_105: -364216296
+      HealthSprite_106: -69392380
+      HealthSprite_107: 1017687823
+      HealthSprite_108: 517691356
+      HealthSprite_109: -330666309
+      HealthSprite_11: -654114739
+      HealthSprite_110: -1906573103
+      HealthSprite_111: 2109134046
+      HealthSprite_112: 1647724702
+      HealthSprite_113: 1043502339
+      HealthSprite_114: 897457044
+      HealthSprite_115: 1709505331
+      HealthSprite_116: 1313503359
+      HealthSprite_117: 2144100320
+      HealthSprite_118: -851421421
+      HealthSprite_119: -343939077
+      HealthSprite_12: 1752976665
+      HealthSprite_120: -1724695319
+      HealthSprite_121: 2077072230
+      HealthSprite_122: 608019608
+      HealthSprite_123: 509671481
+      HealthSprite_124: 17246628
+      HealthSprite_125: 2096720119
+      HealthSprite_13: -294796339
+      HealthSprite_14: -1787662425
+      HealthSprite_15: 2076361477
+      HealthSprite_16: 2057129541
+      HealthSprite_17: -1043542579
+      HealthSprite_18: -1465858170
+      HealthSprite_19: 5138811
+      HealthSprite_2: -1101581610
+      HealthSprite_20: -589873230
+      HealthSprite_21: -1086509020
+      HealthSprite_22: 1029458179
+      HealthSprite_23: -156766948
+      HealthSprite_24: 302870214
+      HealthSprite_25: -1460463901
+      HealthSprite_26: 2096794506
+      HealthSprite_27: -385530551
+      HealthSprite_28: -206580935
+      HealthSprite_29: -818593070
+      HealthSprite_3: -443959477
+      HealthSprite_30: -1314979707
+      HealthSprite_31: 1905405794
+      HealthSprite_32: 245371263
+      HealthSprite_33: -11486009
+      HealthSprite_34: -1595317030
+      HealthSprite_35: -1459510951
+      HealthSprite_36: 1159446820
+      HealthSprite_37: -622017255
+      HealthSprite_38: 2069562556
+      HealthSprite_39: -1675562996
+      HealthSprite_4: 1728541194
+      HealthSprite_40: 222637277
+      HealthSprite_41: 1178894324
+      HealthSprite_42: 267123374
+      HealthSprite_43: -2043245892
+      HealthSprite_44: -1665672219
+      HealthSprite_45: 1914930302
+      HealthSprite_46: 435945965
+      HealthSprite_47: 760864737
+      HealthSprite_48: 801667060
+      HealthSprite_49: 1208887923
+      HealthSprite_5: 549017648
+      HealthSprite_50: 297344406
+      HealthSprite_51: -1977018045
+      HealthSprite_52: -494534330
+      HealthSprite_53: 1989471802
+      HealthSprite_54: 242284086
+      HealthSprite_55: -294545954
+      HealthSprite_56: 420222962
+      HealthSprite_57: 1591633735
+      HealthSprite_58: -231327955
+      HealthSprite_59: 1824989208
+      HealthSprite_6: 1486182887
+      HealthSprite_60: -1356249804
+      HealthSprite_61: -1764313457
+      HealthSprite_62: 1119132835
+      HealthSprite_63: -1441106775
+      HealthSprite_64: -2083927947
+      HealthSprite_65: 640579230
+      HealthSprite_66: 522140261
+      HealthSprite_67: 468735716
+      HealthSprite_68: -1110440042
+      HealthSprite_69: -2032341244
+      HealthSprite_7: 279433891
+      HealthSprite_70: -1320698903
+      HealthSprite_71: 485317018
+      HealthSprite_72: 700741076
+      HealthSprite_73: -2101741494
+      HealthSprite_74: -447313349
+      HealthSprite_75: -1622440992
+      HealthSprite_76: -1857779385
+      HealthSprite_77: -2045427531
+      HealthSprite_78: 1594484269
+      HealthSprite_79: 1694953428
+      HealthSprite_8: -880667644
+      HealthSprite_80: 621850352
+      HealthSprite_81: -288289241
+      HealthSprite_82: -515328297
+      HealthSprite_83: 1570921922
+      HealthSprite_84: 1235175197
+      HealthSprite_85: -1828792800
+      HealthSprite_86: -1002830730
+      HealthSprite_87: 572009471
+      HealthSprite_88: -1458768431
+      HealthSprite_89: -49666523
+      HealthSprite_9: 166230904
+      HealthSprite_90: 161843390
+      HealthSprite_91: -794832185
+      HealthSprite_92: -1288177156
+      HealthSprite_93: 516016995
+      HealthSprite_94: 470328221
+      HealthSprite_95: 687571938
+      HealthSprite_96: 510826280
+      HealthSprite_97: 588410216
+      HealthSprite_98: -1898951913
+      HealthSprite_99: 144759694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
